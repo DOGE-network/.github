@@ -1,1 +1,1 @@
-# .github
+Our goal is to provide clear, actionable insights that can lead to more efficient government operations and better public services. Get Involved. We welcome volunteers to help with: strategy, development, research, content updates and data analysis, marketing, social media engagement and outreach.
