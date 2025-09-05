@@ -1,4 +1,4 @@
-We individually are supporting various projects related to government transparency. While these are generally passion projects that we would do for free, it would be nice to get collaboration across many similar projects to help push forward.
+We develop tools related to government transparency and for the public good. We implement ETL and data standards to facilitate many data sources correlation so that timely research can be turned into action. Our goal is to apply the tools and implementation to make data accessible from local, regional, and national sources.
 
 For example, the California DOGE codebase is both for California State government data research and as a template for other states to follow. Code is publicly licensed as Apache 2.0 and CC-BY. 
 
